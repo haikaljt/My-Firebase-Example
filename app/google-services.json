@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "36970851901",
+    "firebase_url": "https://my-firebase-example-41bed-default-rtdb.firebaseio.com",
+    "project_id": "my-firebase-example-41bed",
+    "storage_bucket": "my-firebase-example-41bed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36970851901:android:e839c5160bb2eae61ac454",
+        "android_client_info": {
+          "package_name": "com.iqbalgbv.myfirebaseexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-dBhgovQ_ZMxhwKzD7VhQLeUnK14zEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
